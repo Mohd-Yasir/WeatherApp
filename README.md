@@ -8,8 +8,9 @@ This is a simple Flutter application demonstrating a weather forecasting app usi
 
 
 | Dark Mode (Main Screen) | Dark Mode (Weather Report) | Dark Mode (Error screen (No internet connection)
-| :----------------------- | :---------------------- |
+| :----------------------- | :---------------------- | | :---------------------- |
 | ![Dark Mode (Main Screen)](screenshots/weather_app2.jpg) | ![Dark Mode (Weather Report)](screenshots/weather_app3.jpg) | ![Dark Mode (Error Screen)](screenshots/weather_app.jpg)
+| :---------------------- | | :---------------------- | | :---------------------- |
 
 | Light Mode (Error/Empty) | Dark Mode (Recent Searches) |
 | :----------------------- | :-------------------------- |
