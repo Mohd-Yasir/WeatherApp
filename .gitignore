@@ -1,0 +1,13 @@
+# Flutter / Dart / Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+android/.gradle/
+*.iml
+
+# Misc
+*.lock
+*.log
+.env
