@@ -1,4 +1,4 @@
-# Flutter Weather App (setState)
+# Weather App
 
 This is a simple Flutter application demonstrating a weather forecasting app using the `setState` approach for state management. It fetches current weather data for a given city from the OpenWeatherMap API and displays it in a clean, user-friendly interface. The app also features recent search history persistence using `shared_preferences` and a theme toggle (light/dark mode).
 
@@ -6,9 +6,8 @@ This is a simple Flutter application demonstrating a weather forecasting app usi
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your app running in both light and dark modes, showing different states like loading, data displayed, error, and recent searches.)*
 
-| Light Mode (Main Screen) | Dark Mode (Main Screen) |
+| ![Light Mode (Main Screen)](screesnhots/weather_app0.jpg) | ![Dark Mode (Main Screen)](screenshots/weather_app2.jpg) |
 | :----------------------- | :---------------------- |
 |  |  |
 
@@ -46,7 +45,7 @@ Open your terminal or command prompt and clone the project:
 
 ```bash
 git clone <repository_url>
-cd flutter_weather_app_setState
+cd weather_app
 ```
 
 ### 4\. Configure Your API Key
@@ -55,9 +54,9 @@ For security and flexibility, the API key is not directly hardcoded into the sou
 
 1.  Open the file: `lib/services/api_service.dart`
 
-2.  Locate the line `static const String _apiKey = 'YOUR_OPENWEATHERMAP_API_KEY';`
+2.  Locate the line `static const String _apiKey = 'API_KEY_HERE';`
 
-3.  Replace `'YOUR_OPENWEATHERMAP_API_KEY'` with the actual API key you obtained from OpenWeatherMap.
+3.  Replace `'API_KEY_HERE'` with the actual API key you obtained from OpenWeatherMap.
 
     ```dart
     // lib/services/api_service.dart
