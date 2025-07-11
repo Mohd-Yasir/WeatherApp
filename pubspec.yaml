@@ -1,0 +1,28 @@
+name: world_weather
+description: A simple weather application built with Flutter using setState.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # For making HTTP requests to the API
+  http: ^1.1.0
+
+  # For saving recent searches (Bonus)
+  shared_preferences: ^2.2.0
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
