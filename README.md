@@ -7,13 +7,13 @@ This is a simple Flutter application demonstrating a weather forecasting app usi
 ## 📸 Screenshots
 
 
-| Dark Mode (Main Screen) | Dark Mode (Weather Report) | Dark Mode (Error screen (No internet connection)) |
+| Dark Mode (Main Screen) | Dark Mode (Weather Report) | Dark Mode (Error screen - No internet connection) |
 | :----------------------- | :---------------------- | :---------------------- |
 | ![Dark Mode (Main Screen)](screenshots/weather_app2.jpg) | ![Dark Mode (Weather Report)](screenshots/weather_app3.jpg) | ![Dark Mode (Error Screen)](screenshots/weather_app.jpg)
 
-| Light Mode (Error/Empty) | Dark Mode (Recent Searches) |
-| :----------------------- | :-------------------------- |
-|  |  |
+| Light Mode (Main Screen) | Light Mode (Weather Report) | Light Mode (Error screen - City not Found) |
+| :----------------------- | :---------------------- | :---------------------- |
+| ![Light Mode (Main Screen)](screenshots/weather_app0.jpg) | ![Light Mode (Weather Report)](screenshots/weather_app4.jpg) | ![Light Mode (Error Screen)](screenshots/weather_app5.jpg)
 
 -----
 
