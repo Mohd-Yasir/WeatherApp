@@ -1,9 +1,3 @@
-My apologies\! It seems I misinterpreted the scope of your previous request and omitted the crucial `README` file for your project. You are absolutely right to point this out, and I appreciate your patience.
-
-Here's the comprehensive `README.md` for your Flutter Weather App, including setup instructions, a placeholder for screenshots, and mentions of assumptions/TODOs, all formatted as requested.
-
------
-
 # Flutter Weather App (setState)
 
 This is a simple Flutter application demonstrating a weather forecasting app using the `setState` approach for state management. It fetches current weather data for a given city from the OpenWeatherMap API and displays it in a clean, user-friendly interface. The app also features recent search history persistence using `shared_preferences` and a theme toggle (light/dark mode).
